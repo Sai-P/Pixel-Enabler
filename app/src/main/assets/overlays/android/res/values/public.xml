@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--framework-res_auto_generated_rro-->
+
+    <public type="array" name="config_nightDisplayColorTemperatureCoefficients" id="0x7f070015" />
+    <public type="bool" name="config_setColorTransformAccelerated" id="0x7f040008" />
+    <public type="bool" name="config_nightDisplayAvailable" id="0x7f040007" />
+    <public type="bool" name="config_dozeAfterScreenOff" id="0x7f040015" />
+    <public type="bool" name="config_dozePulsePickup" id="0x7f040016" />
+    <public type="bool" name="config_dozeAlwaysOnDisplayAvailable" id="0x7f040017" />
+    <public type="bool" name="config_displayBlanksAfterDoze" id="0x7f040018" />
+    <public type="bool" name="config_displayBrightnessBucketsInDoze" id="0x7f040019" />
+    <public type="bool" name="config_powerDecoupleInteractiveModeFromDisplay" id="0x7f04001c" />
+    <public type="bool" name="config_useRoundIcon" id="0x7f04002d" />
+    <public type="string" name="config_dozeComponent" id="0x7f080000" />
+    <public type="string" name="config_dozeDoubleTapSensorType" id="0x7f080001" />
+    <public type="string" name="config_dozeLongPressSensorType" id="0x7f080002" />
+
+	<!--PixelThemeOverlay-->
+    <public type="string" name="pixel_overlay_pixel" id="0x7f080003" />
+
+
+</resources>

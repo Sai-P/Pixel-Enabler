@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!--framework-res_auto_generated_rro-->
+    <string name="config_dozeComponent">‏‮com.android.systemui/com.android.systemui.doze.DozeService‬‏</string>
+	
+	<!--PixelThemeOverlay-->
+    <string name="pixel_overlay_pixel">‏‮Pixel‬‏</string>
+	
+</resources>
